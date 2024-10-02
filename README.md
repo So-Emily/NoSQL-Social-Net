@@ -82,6 +82,10 @@ This project is a NoSQL-based social network API built using MongoDB, Express.js
 - `username`: String, required
 - `createdAt`: Date, default is current date, uses a getter to format the date
 
+## Video
+
+[Video Link](https://drive.google.com/file/d/11EO21kB0E6Hkh9T1lkUNlWQ6nxmTC6yW/view)
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
